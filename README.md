@@ -1,4 +1,6 @@
 # contra
-game
-RUN LINUX
-g++ main.cpp -lsfml-graphics -lsfml-windows -lsfml-system
+# game
+# RUN LINUX
+~~~
+g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+~~~
